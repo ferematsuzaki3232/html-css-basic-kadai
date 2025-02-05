@@ -58,10 +58,10 @@ div#bottom-child03{
     background-color: #e5dcf0;
 }
 div#bottom-child02{
-    position: absolute;
+    position: relative;
     left: 200px;
 }
 div#bottom-child03{
-    position: absolute;
+    position: relative;
     left: 400px;
 }
